@@ -1,0 +1,15 @@
+=======
+# Visual Studio cache directory
+/.vs/
+*.vscode
+
+# Ignore system generated files
+.DS_Store
+
+# All Word docs
+News21-KidsImprisoned-DataViz.docx
+
+# All my test files
+
+# Test JS files
+

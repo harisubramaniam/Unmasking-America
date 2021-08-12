@@ -1,0 +1,72 @@
+/* @import 'https://code.highcharts.com/css/highcharts.css'; */
+
+/* Regular font */
+@font-face { 
+    font-family: 'Avenir Next';
+    src: url(../../css/fonts/AvenirNext-Regular.woff), url(../../css/fonts/AvenirNext-Regular.woff2), url(../../css/fonts/AvenirNext-Regular.eot);
+}
+/* Bold font */
+@font-face { 
+    font-family: 'Avenir Next';
+    src: url(../../css/fonts/AvenirNext-Bold.woff), url(../../css/fonts/AvenirNext-Bold.woff2), url(../../css/fonts/AvenirNext-Bold.eot);
+    font-weight: bold;
+}
+/* Italic font */
+@font-face { 
+    font-family: 'Avenir Next';
+    src: url(../../css/fonts/AvenirNext-Italic.woff), url(../../css/fonts/AvenirNext-Italic.woff2), url(../../css/fonts/AvenirNext-Italic.eot);
+    font-style: italic;
+}
+/* Medium font */
+@font-face { 
+    font-family: 'Avenir Next';
+    src: url(../../css/fonts/AvenirNext-Medium.woff), url(../../css/fonts/AvenirNext-Medium.woff2), url(../../css/fonts/AvenirNext-Medium.eot);
+    font-style: normal;
+    font-weight: 500;
+}
+/* Custom Styles*/
+.graphics-hed {
+    font-family: 'Avenir Next', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+}
+.graphics-subhed {
+    font-family: 'Avenir Next', sans-serif;
+    font-size: .90rem;
+    text-align: center;
+    line-height: 1.5;
+}
+.graphics-source {
+    font-family: 'Avenir Next', sans-serif;
+    font-weight: 400;
+    font-size: 0.75rem !important;
+    color: #14262E;
+    padding-top: 10px;
+}
+a:link, a:visited, a:hover, a:active {
+    color: #14262E;
+}
+.btn-primary {
+    background-color: #728F89 !important;
+    border: 0 !important;
+    border-radius: 0;
+    font-family: 'Avenir Next', sans-serif;
+    font-size: .75rem;
+    box-shadow: none !important;
+}
+.btn-primary:active {
+    box-shadow: none !important;
+    background-color: #69ACA5 !important;
+    border: 0 !important;
+}
+.btn-primary:hover {
+    background-color: #313610 !important;
+    border: 0 !important;
+    box-shadow: none !important;
+}
+.btn-primary:focus {
+    box-shadow: none !important;
+    background-color: #313610 !important;
+    border: 0 !important;
+}

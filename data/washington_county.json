@@ -1,0 +1,335 @@
+[
+ {
+   "school": "Narraguagus Jr/Sr High School",
+   "school_type": "High School",
+   "private_public": "Public",
+   "address": "1611 Main St. ",
+   "town": "Harrington",
+   "lat": 44.6200279,
+   "lon": -67.841776
+ },
+ {
+   "school": "Elm Street School",
+   "school_type": "Elementary/Middle School",
+   "private_public": "Public",
+   "address": "38 Jacksonville Rd.",
+   "town": "Mechanic Falls",
+   "lat": 44.741089,
+   "lon": -67.3903532
+ },
+ {
+   "school": "Milbridge Elementary School",
+   "school_type": "Elementary School",
+   "private_public": "Public",
+   "address": "39 Washington St. ",
+   "town": "Milbridge",
+   "lat": 44.5364786,
+   "lon": -67.8870301
+ },
+ {
+   "school": "Jonesport Elementary School",
+   "school_type": "Elementary School",
+   "private_public": "Public",
+   "address": "139 Snare Creek Ln. ",
+   "town": "Jonesport",
+   "lat": 44.55613,
+   "lon": -67.6143495
+ },
+ {
+   "school": "Beatrice Rafferty School",
+   "school_type": "Elementary School",
+   "private_public": "Public",
+   "address": "22 Bayview Dr. ",
+   "town": "Perry",
+   "lat": 44.9560556,
+   "lon": -67.041009
+ },
+ {
+   "school": "Cherryfield Elementary School",
+   "school_type": "Elementary School",
+   "private_public": "Public",
+   "address": "85 School St. ",
+   "town": "Cherryfield",
+   "lat": 44.6035847,
+   "lon": -67.9342647
+ },
+ {
+   "school": "Washington Academy",
+   "school_type": "High School",
+   "private_public": "Private",
+   "address": "66 Cutler Rd. ",
+   "town": "East Machias",
+   "lat": 44.734192,
+   "lon": -67.3888494
+ },
+ {
+   "school": "Shead High School",
+   "school_type": "High School",
+   "private_public": "Public ",
+   "address": "89 High St. ",
+   "town": "Eastport",
+   "lat": 44.9073578,
+   "lon": -66.9892114
+ },
+ {
+   "school": "Machias Memorial High School",
+   "school_type": "High School",
+   "private_public": "Public",
+   "address": "1 Bulldog Ln. ",
+   "town": "Machias",
+   "lat": 44.7138419,
+   "lon": -67.4691134
+ },
+ {
+   "school": "Lubec Consolidated School",
+   "school_type": "Elementary/Middle School",
+   "private_public": "Public",
+   "address": "44 South St. ",
+   "town": "Lubec",
+   "lat": 44.854795,
+   "lon": -66.9886775
+ },
+ {
+   "school": "Beals Elementary School",
+   "school_type": "Elementary School",
+   "private_public": "Public",
+   "address": "1227 US Highway 1A",
+   "town": "Beals",
+   "lat": 44.5165324,
+   "lon": -67.6124668
+ },
+ {
+   "school": "Bay Ridge Elementary School",
+   "school_type": "Elementary School",
+   "private_public": "Public",
+   "address": "2066 Cutler Rd. ",
+   "town": "Cutler",
+   "lat": 44.6704671,
+   "lon": -67.257088
+ },
+ {
+   "school": "Edmunds Consolidated School",
+   "school_type": "Elementary/Middle School",
+   "private_public": "Public",
+   "address": "21 Harrison Rd.",
+   "town": "Edmunds Township",
+   "lat": 44.8955979,
+   "lon": -67.2234051
+ },
+ {
+   "school": "Indian Township School",
+   "school_type": "Elementary/Middle School",
+   "private_public": "Public",
+   "address": "13 School Dr.",
+   "town": "Princeton",
+   "lat": 45.2122686,
+   "lon": -67.6315403
+ },
+ {
+   "school": "Fort O'Brien School",
+   "school_type": "Elementary/Middle School",
+   "private_public": "Public",
+   "address": "492 Port Rd. ",
+   "town": "Machiasport",
+   "lat": 44.6890223,
+   "lon": -67.3972733
+ },
+ {
+   "school": "Jonesport-Beals High School",
+   "school_type": "High School",
+   "private_public": "Public",
+   "address": "180 Snare Creek Ln. ",
+   "town": "Jonesport",
+   "lat": 44.5576346,
+   "lon": -67.6136567
+ },
+ {
+   "school": "Woodland Elementary School",
+   "school_type": "Elementary School",
+   "private_public": "Public",
+   "address": "23 4th Ave.",
+   "town": "Baileyville",
+   "lat": 45.2439518,
+   "lon": -67.5173046
+ },
+ {
+   "school": "East Grand High School",
+   "school_type": "High School",
+   "private_public": "Public",
+   "address": "31 Houlton Rd. ",
+   "town": "Danforth",
+   "lat": 45.6611925,
+   "lon": -67.8628744
+ },
+ {
+   "school": "Calais Elementary School",
+   "school_type": "Elementary School",
+   "private_public": "Public",
+   "address": "53 Garfield St. ",
+   "town": "Calais",
+   "lat": 45.1800056,
+   "lon": -67.2843549
+ },
+ {
+   "school": "Daniel W. Merritt Elementary",
+   "school_type": "Elementary School",
+   "private_public": "Public",
+   "address": "518 Indian River Rd. ",
+   "town": "Addison",
+   "lat": 44.621618,
+   "lon": -67.6973447
+ },
+ {
+   "school": "East Range II School",
+   "school_type": "Elementary/Middle School",
+   "private_public": "Public",
+   "address": "187 School Rd. ",
+   "town": "Topsfield",
+   "lat": 45.4252281,
+   "lon": -67.7195201
+ },
+ {
+   "school": "Eastport Elementary School",
+   "school_type": "Elementary School",
+   "private_public": "Public",
+   "address": "100 High St. ",
+   "town": "Eastport",
+   "lat": 44.9079032,
+   "lon": -66.9919737
+ },
+ {
+   "school": "Charlotte Elementary School",
+   "school_type": "Elementary School",
+   "private_public": "Public",
+   "address": "1006 Ayers Junction Rd. ",
+   "town": "Charlotte",
+   "lat": 44.997895,
+   "lon": -67.2618987
+ },
+ {
+   "school": "Alexander Elementary School",
+   "school_type": "Elementary School",
+   "private_public": "Public",
+   "address": "1430 Airline Rd. ",
+   "town": "Alexander",
+   "lat": 45.0915002,
+   "lon": -67.4772424
+ },
+ {
+   "school": "Princeton Elementary School",
+   "school_type": "Elementary School",
+   "private_public": "Public ",
+   "address": "289 Main St. ",
+   "town": "Princeton",
+   "lat": 45.2175367,
+   "lon": -67.5509606
+ },
+ {
+   "school": "Woodland Junior-Senior High School",
+   "school_type": "Middle/High School",
+   "private_public": "Public",
+   "address": "14 1st Ave. ",
+   "town": "Baileyville",
+   "lat": 45.0711075,
+   "lon": -67.49041
+ },
+ {
+   "school": "Jonesboro Elementary School ",
+   "school_type": "Elementary School",
+   "private_public": "Public",
+   "address": "57 School Rd. ",
+   "town": "Jonesboro",
+   "lat": 44.6535888,
+   "lon": -67.5835022
+ },
+ {
+   "school": "Machias Valley Christian School",
+   "school_type": "Elementary/Middle School",
+   "private_public": "Private",
+   "address": "118 Court St. ",
+   "town": "Machias",
+   "lat": 44.7146193,
+   "lon": -67.4619848
+ },
+ {
+   "school": "East Machias Elementary School",
+   "school_type": "Elementary School",
+   "private_public": "Public",
+   "address": "35 Jacksonville Rd. ",
+   "town": "East Machias",
+   "lat": 44.7406387,
+   "lon": -67.3893805
+ },
+ {
+   "school": "Wesley Elementary School ",
+   "school_type": "Elementary School",
+   "private_public": "Public",
+   "address": "13 Whining Pines Dr. ",
+   "town": "Wesley",
+   "lat": 44.9289735,
+   "lon": -67.6648279
+ },
+ {
+   "school": "Ella Lewis Elementary School",
+   "school_type": "Elementary School",
+   "private_public": "Public",
+   "address": "15 Village Rd. ",
+   "town": "Steuben",
+   "lat": 44.511809,
+   "lon": -67.9613342
+ },
+ {
+   "school": "Pembroke Elementary School",
+   "school_type": "Elementary School",
+   "private_public": "Public",
+   "address": "36 US-1",
+   "town": "Pembroke",
+   "lat": 44.9475779,
+   "lon": -67.1772077
+ },
+ {
+   "school": "Whiting Village School ",
+   "school_type": "Elementary/Middle School",
+   "private_public": "Public",
+   "address": "130 S. River Rd. ",
+   "town": "Whiting",
+   "lat": 44.791229,
+   "lon": -67.1752368
+ },
+ {
+   "school": "Rose M Gaffney School ",
+   "school_type": "Elementary School",
+   "private_public": "Public",
+   "address": "15 Rose Gaffney Rd. ",
+   "town": "Machias",
+   "lat": 44.7150143,
+   "lon": -67.4688275
+ },
+ {
+   "school": "Harrington Elementary School",
+   "school_type": "Elementary School",
+   "private_public": "Public ",
+   "address": "1227 US Highway 1A",
+   "town": "Harrington",
+   "lat": 44.605634,
+   "lon": -67.8082828
+ },
+ {
+   "school": "Calais Middle/High School",
+   "school_type": "Middle/High School",
+   "private_public": "Public",
+   "address": "34 Blue Devil Hill",
+   "town": "Calais",
+   "lat": 45.1639929,
+   "lon": -67.2419685
+ },
+ {
+   "school": "Perry Elementary School",
+   "school_type": "Elementary/Middle School",
+   "private_public": "Public",
+   "address": "1587 US Route 1",
+   "town": "Perry",
+   "lat": 44.9773006,
+   "lon": -67.0685921
+ }
+]

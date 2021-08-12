@@ -1,0 +1,3089 @@
+[
+ {
+   "school": "St. Anthony High School of Milwaukee",
+   "school_type": "High School",
+   "public_private": "Private",
+   "address": "4807 S. 2nd St.",
+   "charter_school": "No",
+   "lat": 42.95448685,
+   "lon": -87.91351318
+ },
+ {
+   "school": "Notre Dame School of Milwaukee",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "1420 W. Scott St. ",
+   "charter_school": "No",
+   "lat": 43.01911163,
+   "lon": -87.92311096
+ },
+ {
+   "school": "Milwaukee High School of the Arts",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "2300 W. Highland Ave.",
+   "charter_school": "No",
+   "lat": 43.04442596,
+   "lon": -87.94374084
+ },
+ {
+   "school": "Milwaukee Parkside School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Public",
+   "address": "2969 S. Howell Ave.",
+   "charter_school": "No",
+   "lat": 42.99601364,
+   "lon": -87.90479279
+ },
+ {
+   "school": "Bay View High School",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "2751 S. Lenox St. ",
+   "charter_school": "No",
+   "lat": 42.99471283,
+   "lon": -87.89806366
+ },
+ {
+   "school": "Tenor High School Jackson Street",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "840 N. Jackson St.",
+   "charter_school": "Yes",
+   "lat": 43.04180527,
+   "lon": -87.90436554
+ },
+ {
+   "school": "Bay View Montessori",
+   "school_type": "Montessori",
+   "public_private": "Private",
+   "address": "357 E. Howard Ave.",
+   "charter_school": "No",
+   "lat": 42.97379303,
+   "lon": -87.89784241
+ },
+ {
+   "school": "Hayes Bilingual School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "971 W. Windlake Ave.",
+   "charter_school": "No",
+   "lat": 43.00801468,
+   "lon": -87.92435455
+ },
+ {
+   "school": "Tenor High School 1st Street Campus",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "131 S. 1st St.",
+   "charter_school": "Yes",
+   "lat": 43.02993011,
+   "lon": -87.91090393
+ },
+ {
+   "school": "South Division High School",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "1515 W. Lapham Blvd.",
+   "charter_school": "No",
+   "lat": 43.01421356,
+   "lon": -87.92494965
+ },
+ {
+   "school": "Grandview High School",
+   "school_type": "High School",
+   "public_private": "Private",
+   "address": "2745 S. 13th St.",
+   "charter_school": "No",
+   "lat": 42.99215698,
+   "lon": -87.92871094
+ },
+ {
+   "school": "Lincoln Avenue Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "1817 W. Lincoln Ave.",
+   "charter_school": "No",
+   "lat": 43.0030365,
+   "lon": -87.93934631
+ },
+ {
+   "school": "Humboldt Park Public School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "3230 S. Adams Ave.",
+   "charter_school": "No",
+   "lat": 42.98831177,
+   "lon": -87.9029007
+ },
+ {
+   "school": "St. Anthony School Milwaukee",
+   "school_type": "High School",
+   "public_private": "Private",
+   "address": "1669 S. 5th St.",
+   "charter_school": "No",
+   "lat": 43.01285553,
+   "lon": -87.91678619
+ },
+ {
+   "school": "Cristo Rey Jesuit High School Milwaukee",
+   "school_type": "High School",
+   "public_private": "Public ",
+   "address": "1818 W. National Ave.",
+   "charter_school": "Yes",
+   "lat": 43.02263641,
+   "lon": -87.94018555
+ },
+ {
+   "school": "Salam High School",
+   "school_type": "High School ",
+   "public_private": "Private",
+   "address": "4707 S. 13th St. ",
+   "charter_school": "No",
+   "lat": 42.95543671,
+   "lon": -87.92926788
+ },
+ {
+   "school": "Bruce Guadalupe Community School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "1028 S. 9th St.",
+   "charter_school": "No",
+   "lat": 43.02138138,
+   "lon": -87.92251587
+ },
+ {
+   "school": "Downtown Montessori Academy",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Public",
+   "address": "2507 S. Graham St. ",
+   "charter_school": "Yes",
+   "lat": 42.99870682,
+   "lon": -87.90364075
+ },
+ {
+   "school": "Trowbridge School of Great Lake",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "1943 E. Trowbridge St. ",
+   "charter_school": "No",
+   "lat": 42.99258041,
+   "lon": -87.88489532
+ },
+ {
+   "school": "Burdick School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Public",
+   "address": "4348 S. Griffin Ave",
+   "charter_school": "No",
+   "lat": 42.96513748,
+   "lon": -87.90471649
+ },
+ {
+   "school": "Fernwood Montessori School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Public",
+   "address": "3239 S. Pennsylvania Ave",
+   "charter_school": "No",
+   "lat": 42.98428345,
+   "lon": -87.87950134
+ },
+ {
+   "school": "Seton Catholic Schools",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "3501 S Lake Dr, St Francis, WI 53235",
+   "charter_school": "No",
+   "lat": 42.97890091,
+   "lon": -87.86064148
+ },
+ {
+   "school": "St. Thomas Aquinas Academy",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "341 E. Norwich St.",
+   "charter_school": "No",
+   "lat": 42.97188568,
+   "lon": -87.90196991
+ },
+ {
+   "school": "Allen-Field Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "730 W. Lapham Blvd.",
+   "charter_school": "No",
+   "lat": 43.01421356,
+   "lon": -87.92494965
+ },
+ {
+   "school": "John Greenleaf Whittier Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "4382 S. 3rd St. ",
+   "charter_school": "Yes",
+   "lat": 42.96357346,
+   "lon": -87.91452026
+ },
+ {
+   "school": "Riley Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "2424 S. 4th St. ",
+   "charter_school": "No",
+   "lat": 43.00328064,
+   "lon": -87.91551208
+ },
+ {
+   "school": "Bay View Montessori Upper Campus",
+   "school_type": "Montessori",
+   "public_private": "Public",
+   "address": "619 E. Dover St. ",
+   "charter_school": "No",
+   "lat": 42.99647141,
+   "lon": -87.90454102
+ },
+ {
+   "school": "La Causa Charter School",
+   "school_type": "Alternative",
+   "public_private": "Private",
+   "address": "1643 S. 2nd St. ",
+   "charter_school": "Yes",
+   "lat": 43.0130372,
+   "lon": -87.9129701
+ },
+ {
+   "school": "Salam Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Private",
+   "address": "815 W. Layton Dr. ",
+   "charter_school": "No",
+   "lat": 42.95714188,
+   "lon": -87.92258453
+ },
+ {
+   "school": "St. Thomas More High School",
+   "school_type": "High School",
+   "public_private": "Private",
+   "address": "2601 E. Morgan Ave",
+   "charter_school": "No",
+   "lat": 42.9808749,
+   "lon": -87.8791275
+ },
+ {
+   "school": "Saint Josaphat Parish School",
+   "school_type": "Elementary School",
+   "public_private": "Private",
+   "address": "801 W. Lincoln Ave",
+   "charter_school": "No",
+   "lat": 43.0026333,
+   "lon": -87.9216102
+ },
+ {
+   "school": "Clement Avenue Public School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Public ",
+   "address": "3666 S. Clement Ave",
+   "charter_school": "No",
+   "lat": 42.9779195,
+   "lon": -87.8935195
+ },
+ {
+   "school": "Atlas Preparatory Academy",
+   "school_type": "K-12",
+   "public_private": "Private",
+   "address": "1051 E. Russell Ave.",
+   "charter_school": "No",
+   "lat": 42.9955481,
+   "lon": -87.8964956
+ },
+ {
+   "school": "Augustine Preparatory Academy",
+   "school_type": "k-12",
+   "public_private": "Private",
+   "address": "2607 S. 5th St. ",
+   "charter_school": "No",
+   "lat": 42.9965959,
+   "lon": -87.9170499
+ },
+ {
+   "school": "Saint Lucas Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Public",
+   "address": "648 E. Dover St. ",
+   "charter_school": "No",
+   "lat": 42.9976714,
+   "lon": -87.9010453
+ },
+ {
+   "school": "Atlas Preparatory Academy",
+   "school_type": "K-12",
+   "public_private": "Private",
+   "address": "3945 S. Kansas Ave.",
+   "charter_school": "No",
+   "lat": 42.9728322,
+   "lon": -87.8875923
+ },
+ {
+   "school": "The Art School, Inc.",
+   "school_type": "Alternative",
+   "public_private": "Private",
+   "address": "2654 S. Kinnickinnic Ave",
+   "charter_school": "No",
+   "lat": 42.9967407,
+   "lon": -87.8979704
+ },
+ {
+   "school": "Kosciuszko Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "5252 S Kirkwood Ave, Cudahy, WI 53110",
+   "charter_school": "No",
+   "lat": 42.948764,
+   "lon": -87.8574003
+ },
+ {
+   "school": "Milwaukee Scholars Charter School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Public",
+   "address": "7000 W. Florist Ave,",
+   "charter_school": "Yes",
+   "lat": 43.1277592,
+   "lon": -87.9983444
+ },
+ {
+   "school": "Heritage Christian Schools",
+   "school_type": "K-12",
+   "public_private": "Private",
+   "address": "3500 S. Glen Park Rd.",
+   "charter_school": "No",
+   "lat": 43.0389,
+   "lon": -87.90647
+ },
+ {
+   "school": "Messmer High School",
+   "school_type": "High School",
+   "public_private": "Private",
+   "address": "742 W. Capitol Dr. ",
+   "charter_school": "No",
+   "lat": 43.0894159,
+   "lon": -87.9204211
+ },
+ {
+   "school": "Milwaukee Excellence Charter School",
+   "school_type": "Middle/High School",
+   "public_private": "Public",
+   "address": "4950 N. 24th St. ",
+   "charter_school": "Yes",
+   "lat": 43.1074644,
+   "lon": -87.9414976
+ },
+ {
+   "school": "Milwaukee College Prep School",
+   "school_type": "Alternative",
+   "public_private": "Private ",
+   "address": "1228 W. Lloyd St. ",
+   "charter_school": "Yes",
+   "lat": 43.0579517,
+   "lon": -87.927429
+ },
+ {
+   "school": "St. Coletta Day School",
+   "school_type": "Alternative",
+   "public_private": "Private",
+   "address": "1740 N. 55th St.",
+   "charter_school": "No",
+   "lat": 43.0534516,
+   "lon": -87.9818374
+ },
+ {
+   "school": "The Alliance School of Milwaukee",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "850 W. Walnut St. ",
+   "charter_school": "Yes",
+   "lat": 43.0539029,
+   "lon": -87.9224765
+ },
+ {
+   "school": "St. Anthony School of Milwaukee Upper Elementary",
+   "school_type": "Elementary School",
+   "public_private": "Private",
+   "address": "2623 N. 38th St. ",
+   "charter_school": "No",
+   "lat": 43.0667951,
+   "lon": -87.9616031
+ },
+ {
+   "school": "MacDowell Montessori School",
+   "school_type": "K-12",
+   "public_private": "Public",
+   "address": "6415 W. Mt. Vernon Ave.",
+   "charter_school": "No",
+   "lat": 43.0326656,
+   "lon": -87.9927816
+ },
+ {
+   "school": "Wedgewood Park International School",
+   "school_type": "Middle School",
+   "public_private": "Public",
+   "address": "6506 W. Warnimont Ave.",
+   "charter_school": "No",
+   "lat": 42.9788964,
+   "lon": -87.9948188
+ },
+ {
+   "school": "Banner Prep School of Milwaukee",
+   "school_type": "Alternative",
+   "public_private": "Public",
+   "address": "3517A W Courtland Ave.",
+   "charter_school": "No",
+   "lat": 43.102486,
+   "lon": -87.9570804
+ },
+ {
+   "school": "Eastbrook Academy",
+   "school_type": "K-12",
+   "public_private": "Private",
+   "address": "5375 N. Green Bay Ave.",
+   "charter_school": "No",
+   "lat": 43.1149674,
+   "lon": -87.9340666
+ },
+ {
+   "school": "Audobon Technology and Communication Center Middle School",
+   "school_type": "Middle School",
+   "public_private": "Public",
+   "address": "3300 S. 39th St.",
+   "charter_school": "No",
+   "lat": 42.9842955,
+   "lon": -87.9618819
+ },
+ {
+   "school": "Woodlands School",
+   "school_type": "K4-8",
+   "public_private": "Public",
+   "address": "5510 W. Blue Mound Rd.",
+   "charter_school": "Yes",
+   "lat": 43.03681564,
+   "lon": -87.98278809
+ },
+ {
+   "school": "Marquette University High School ",
+   "school_type": "High School",
+   "public_private": "Private",
+   "address": "3401 W. Wisconsin Ave.",
+   "charter_school": "No",
+   "lat": 43.0379584,
+   "lon": -87.9558448
+ },
+ {
+   "school": "Frederick J. Gaenslen School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "1250 E. Burleigh St. ",
+   "charter_school": "No",
+   "lat": 43.0756352,
+   "lon": -87.8949606
+ },
+ {
+   "school": "Golda Meir School Lower Campus ",
+   "school_type": "K-12",
+   "public_private": "Public",
+   "address": "1555 N. Dr. M.L.K. Jr. Dr.",
+   "charter_school": "No",
+   "lat": 43.05088806,
+   "lon": -87.91545105
+ },
+ {
+   "school": "Clara Mohammad Schools, Inc.",
+   "school_type": "K-12",
+   "public_private": "Private",
+   "address": "317 W. Wright St.",
+   "charter_school": "No",
+   "lat": 43.0638455,
+   "lon": -87.9144606
+ },
+ {
+   "school": "Veritas High School",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "3025 W. Oklahoma Ave.",
+   "charter_school": "Yes",
+   "lat": 42.9886042,
+   "lon": -87.9526345
+ },
+ {
+   "school": "Casimir Pulaski High School",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "2500 W. Oklahoma Ave.",
+   "charter_school": "No",
+   "lat": 42.9897536,
+   "lon": -87.9452267
+ },
+ {
+   "school": "Divine Savior Holy Angels High School",
+   "school_type": "High School",
+   "public_private": "Private",
+   "address": "4257 N. 100th St.",
+   "charter_school": "No",
+   "lat": 43.0942598,
+   "lon": -88.0377839
+ },
+ {
+   "school": "St. Anthony School ",
+   "school_type": "K-12",
+   "public_private": "Private",
+   "address": "1669 S. 5th St. ",
+   "charter_school": "No",
+   "lat": 43.0129212,
+   "lon": -87.9169272
+ },
+ {
+   "school": "Rufus King High School",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "1801 W. Olive St. ",
+   "charter_school": "No",
+   "lat": 43.09234,
+   "lon": -87.9331629
+ },
+ {
+   "school": "Assata High School ",
+   "school_type": "Alternative",
+   "public_private": "Public",
+   "address": "3517 W. Courtland Ave.",
+   "charter_school": "No",
+   "lat": 43.1023062,
+   "lon": -87.957388
+ },
+ {
+   "school": "Milwaukee Math and Science Academy",
+   "school_type": "K4-8",
+   "public_private": "Public",
+   "address": "2703 N. Sherman Blvd.",
+   "charter_school": "Yes",
+   "lat": 43.0685807,
+   "lon": -87.9679295
+ },
+ {
+   "school": "St. Joan Antida High School",
+   "school_type": "High School",
+   "public_private": "Private",
+   "address": "1341 N. Cass St.",
+   "charter_school": "No",
+   "lat": 43.0477833,
+   "lon": -87.9027408
+ },
+ {
+   "school": "Milwaukee Seventh-Day Adventist School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "10900 W. Mill Rd. ",
+   "charter_school": "No",
+   "lat": 43.1339123,
+   "lon": -88.0474037
+ },
+ {
+   "school": "Fairview Public School ",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Public",
+   "address": "6500 W. Kinnickinnic River Pkwy.",
+   "charter_school": "No",
+   "lat": 42.9916987,
+   "lon": -87.9935812
+ },
+ {
+   "school": "Shalom High School",
+   "school_type": "High School",
+   "public_private": "Private",
+   "address": "1749 N. 16th St. ",
+   "charter_school": "No",
+   "lat": 43.0538313,
+   "lon": -87.9331124
+ },
+ {
+   "school": "Wisconsin Conservatory of Lifelong Learning",
+   "school_type": "k-12",
+   "public_private": "Public",
+   "address": "1017 N. 12th St.",
+   "charter_school": "No",
+   "lat": 43.0437405,
+   "lon": -87.9286541
+ },
+ {
+   "school": "St. Marcus Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "2215 N. Palmer St.",
+   "charter_school": "No",
+   "lat": 43.059286,
+   "lon": -87.9100554
+ },
+ {
+   "school": "Academy of Accelerated Learning",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "3727 S. 78th St.",
+   "charter_school": "No",
+   "lat": 42.9760458,
+   "lon": -88.0116308
+ },
+ {
+   "school": "Bradley Tech High School",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "700 S. 4th St. ",
+   "charter_school": "No",
+   "lat": 43.0246365,
+   "lon": -87.9147392
+ },
+ {
+   "school": "Cass Street Public School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "1647 N. Cass St.",
+   "charter_school": "No",
+   "lat": 43.0518175,
+   "lon": -87.9025053
+ },
+ {
+   "school": "LaFollette Public School",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "3239 N. 9th St.",
+   "charter_school": "No",
+   "lat": 43.0769131,
+   "lon": -87.9230923
+ },
+ {
+   "school": "Riverwest Elementary School ",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "2765 N. Fratney St. ",
+   "charter_school": "No",
+   "lat": 43.0685846,
+   "lon": -87.9021927
+ },
+ {
+   "school": "James Groppi High School ",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "1312 N. 27th St.",
+   "charter_school": "No",
+   "lat": 43.047537,
+   "lon": -87.9469777
+ },
+ {
+   "school": "Hope Christian School",
+   "school_type": "High School",
+   "public_private": "Private",
+   "address": "3215 N. Dr. M. L. K. Jr. Dr.",
+   "charter_school": "No",
+   "lat": 43.0769449,
+   "lon": -87.9153292
+ },
+ {
+   "school": "Milwaukee Marshall High School",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "4141 N. 64th St. ",
+   "charter_school": "No",
+   "lat": 43.0943072,
+   "lon": -87.993239
+ },
+ {
+   "school": "Carmen Middle/High School of Science and Technology: Northwest Campus ",
+   "school_type": "Middle/High School",
+   "public_private": "Public",
+   "address": "5496 N. 72nd St.",
+   "charter_school": "Yes",
+   "lat": 43.1172795,
+   "lon": -88.0001008
+ },
+ {
+   "school": "Neeskara Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "1601 N. Hawley Rd. ",
+   "charter_school": "No",
+   "lat": 43.051492,
+   "lon": -87.982648
+ },
+ {
+   "school": "Tamarack Waldorf School",
+   "school_type": "Alternative School",
+   "public_private": "Private",
+   "address": "1150 E. Brady St. ",
+   "charter_school": "No",
+   "lat": 43.0532913,
+   "lon": -87.8971649
+ },
+ {
+   "school": "Cumberland School ",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "4780 N. Marlborough Dr. ",
+   "charter_school": "No",
+   "lat": 43.1033291,
+   "lon": -87.8970822
+ },
+ {
+   "school": "Browning Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "5440 N. 64th St. ",
+   "charter_school": "No",
+   "lat": 43.1177838,
+   "lon": -87.9904322
+ },
+ {
+   "school": "Project STAY",
+   "school_type": "Alternative School",
+   "public_private": "Public",
+   "address": "609 N. 8th St. ",
+   "charter_school": "No",
+   "lat": 43.0378113,
+   "lon": -87.9222583
+ },
+ {
+   "school": "James Madison Academic Campus ",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "8135 W. Florist Ave.",
+   "charter_school": "No",
+   "lat": 43.1261425,
+   "lon": -88.0127176
+ },
+ {
+   "school": "Milwaukee Jewish Day School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "6401 N. Santa Monica Blvd.",
+   "charter_school": "No",
+   "lat": 43.1332461,
+   "lon": -87.907787
+ },
+ {
+   "school": "West Milwaukee Middle School",
+   "school_type": "Middle School",
+   "public_private": "Public",
+   "address": "5140 W. Greenfield Ave.",
+   "charter_school": "No",
+   "lat": 43.0170217,
+   "lon": -87.9153051
+ },
+ {
+   "school": "Carmen High School of Science and Technology: South Campus",
+   "school_type": "High School",
+   "public_private": "",
+   "address": "1712 S. 32nd St. ",
+   "charter_school": "Yes",
+   "lat": 43.0115857,
+   "lon": -87.9534209
+ },
+ {
+   "school": "Dr. Martin Luther King Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "3275 N. 3rd St. ",
+   "charter_school": "No",
+   "lat": 43.0783099,
+   "lon": -87.9148378
+ },
+ {
+   "school": "Auer Avenue School ",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "2319 W. Auer Ave.",
+   "charter_school": "No",
+   "lat": 43.0764894,
+   "lon": -87.941366
+ },
+ {
+   "school": "Marvin E. Pratt  Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "5131 N. Green Bay Ave.",
+   "charter_school": "No",
+   "lat": 43.1101517,
+   "lon": -87.9333626
+ },
+ {
+   "school": "Honey Creek Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "6701 W. Eden Pl. ",
+   "charter_school": "Yes",
+   "lat": 42.9793586,
+   "lon": -87.996963
+ },
+ {
+   "school": "Washington High School of Information Technology",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "2525 N. Sherman Blvd.",
+   "charter_school": "No",
+   "lat": 43.0653368,
+   "lon": -87.968226
+ },
+ {
+   "school": "Eisenhower Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "11600 W. Center St.",
+   "charter_school": "No",
+   "lat": 43.067416,
+   "lon": -88.056583
+ },
+ {
+   "school": "Benjamin Franklin School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Public",
+   "address": "2308 W. Nash St. ",
+   "charter_school": "No",
+   "lat": 43.0853879,
+   "lon": -87.9415646
+ },
+ {
+   "school": "Clemens Public School ",
+   "school_type": "K4-5",
+   "public_private": "Public ",
+   "address": "3600 W. Hope Ave.",
+   "charter_school": "No",
+   "lat": 43.0939553,
+   "lon": -87.9591514
+ },
+ {
+   "school": "Emerson Public School",
+   "school_type": "K4-5",
+   "public_private": "Public ",
+   "address": "9025 W. Lawrence Ave.",
+   "charter_school": "No",
+   "lat": 43.097471,
+   "lon": -88.0253361
+ },
+ {
+   "school": "Escuela Verde",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "3628 W. Pierce St.",
+   "charter_school": "Yes",
+   "lat": 43.0236971,
+   "lon": -87.9592954
+ },
+ {
+   "school": "Transition High School",
+   "school_type": "Alternative School",
+   "public_private": "Public",
+   "address": "1940 N. 36th St. ",
+   "charter_school": "No",
+   "lat": 43.0556066,
+   "lon": -87.958206
+ },
+ {
+   "school": "New School for Community Service",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "609 N. 8th St. ",
+   "charter_school": "No",
+   "lat": 43.0378113,
+   "lon": -87.9222583
+ },
+ {
+   "school": "St. Adalbert School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "1913 W. Becher St. ",
+   "charter_school": "No",
+   "lat": 43.0062317,
+   "lon": -87.937125
+ },
+ {
+   "school": "Dr. Howard Fuller Collegiate Academy ",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "4030 N. 29th St.",
+   "charter_school": "Yes",
+   "lat": 43.090248,
+   "lon": -87.9489481
+ },
+ {
+   "school": "Hamilton High School",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "6215 W. Warnimont",
+   "charter_school": "No",
+   "lat": 42.9773813,
+   "lon": -87.9913736
+ },
+ {
+   "school": "Riverside University High School",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "1615 E. Locust St. ",
+   "charter_school": "No",
+   "lat": 43.0703156,
+   "lon": -87.8903608
+ },
+ {
+   "school": "Kradwell School ",
+   "school_type": "High School",
+   "public_private": "Private",
+   "address": "1220 Dewey Ave.",
+   "charter_school": "No",
+   "lat": 43.0469968,
+   "lon": -88.007804
+ },
+ {
+   "school": "Hampton Public School ",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "5000 N. 53rd St.",
+   "charter_school": "No",
+   "lat": 43.1089547,
+   "lon": -87.9778884
+ },
+ {
+   "school": "Whitman Middle School",
+   "school_type": "Middle School",
+   "public_private": "Public",
+   "address": "11100 W. Center St. ",
+   "charter_school": "No",
+   "lat": 43.0674794,
+   "lon": -88.0518708
+ },
+ {
+   "school": "Northwest Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "4119 N. 81st St.",
+   "charter_school": "No",
+   "lat": 43.0922064,
+   "lon": -88.0137281
+ },
+ {
+   "school": "West High School ",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "1470 N. 17th St. ",
+   "charter_school": "No",
+   "lat": 43.0495881,
+   "lon": -87.9338106
+ },
+ {
+   "school": "Pius XI High School",
+   "school_type": "High School",
+   "public_private": "Private",
+   "address": "135 N. 76th St. ",
+   "charter_school": "No",
+   "lat": 43.0318128,
+   "lon": -88.0085896
+ },
+ {
+   "school": "Kilbourn Public School",
+   "school_type": "Elementary School",
+   "public_private": "Public ",
+   "address": "5354 N. 68th St. ",
+   "charter_school": "No",
+   "lat": 43.1152984,
+   "lon": -87.9961634
+ },
+ {
+   "school": "Eighty-First Street School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "2964 N. 81st St. ",
+   "charter_school": "No",
+   "lat": 43.0725364,
+   "lon": -88.0130452
+ },
+ {
+   "school": "Messmer St. Rose",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "514 N. 31st St.",
+   "charter_school": "No",
+   "lat": 43.0364663,
+   "lon": -87.9522086
+ },
+ {
+   "school": "Albert E. Kagel School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "1210 W. Mineral St. ",
+   "charter_school": "No",
+   "lat": 43.0217409,
+   "lon": -87.9286243
+ },
+ {
+   "school": "Escuela Vieau Public School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Public ",
+   "address": "823 S. 4th St. ",
+   "charter_school": "No",
+   "lat": 43.0226787,
+   "lon": -87.915839
+ },
+ {
+   "school": "Hi-Mount Community ",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Public",
+   "address": "4921 W. Garfield Ave.",
+   "charter_school": "No",
+   "lat": 43.058604,
+   "lon": -87.9754145
+ },
+ {
+   "school": "Garden Homes Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "2450 W. Roosevelt Dr. ",
+   "charter_school": "No",
+   "lat": 43.095243,
+   "lon": -87.943703
+ },
+ {
+   "school": "Lad Lake Synergy School",
+   "school_type": "Alternative School",
+   "public_private": "Public ",
+   "address": "2820 W. Grant St. ",
+   "charter_school": "No",
+   "lat": 43.0051168,
+   "lon": -87.9501906
+ },
+ {
+   "school": "Fifty-Third Street School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Public",
+   "address": "3618 N. 53rd St.",
+   "charter_school": "No",
+   "lat": 43.0835961,
+   "lon": -87.978417
+ },
+ {
+   "school": "Craig Montessori",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Public",
+   "address": "7667 W. Congress St.",
+   "charter_school": "No",
+   "lat": 43.0965115,
+   "lon": -88.0081978
+ },
+ {
+   "school": "North Division High School",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "1011 W. Center St.",
+   "charter_school": "No",
+   "lat": 43.0665805,
+   "lon": -87.925951
+ },
+ {
+   "school": "U.S. Grant School",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "2920 W. Grant St.",
+   "charter_school": "No",
+   "lat": 43.0061329,
+   "lon": -87.9511045
+ },
+ {
+   "school": "Keefe Avenue Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "1618 W. Keefe Ave.",
+   "charter_school": "No",
+   "lat": 43.0829662,
+   "lon": -87.931682
+ },
+ {
+   "school": "Doerfler Public School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "3014 W. Scott St. ",
+   "charter_school": "No",
+   "lat": 43.0196133,
+   "lon": -87.9520623
+ },
+ {
+   "school": "Carter's Christian Academy",
+   "school_type": "Alternative School",
+   "public_private": "Private",
+   "address": "5268 N. 35th St.",
+   "charter_school": "No",
+   "lat": 43.1131552,
+   "lon": -87.9562938
+ },
+ {
+   "school": "St. Martini Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "1520 S. Cesar E Chavez Dr. ",
+   "charter_school": "No",
+   "lat": 43.0154306,
+   "lon": -87.932612
+ },
+ {
+   "school": "Story Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "3815 W. Kilbourn Ave.",
+   "charter_school": "No",
+   "lat": 43.041604,
+   "lon": -87.918848
+ },
+ {
+   "school": "Rufus King international Middle School",
+   "school_type": "Middle School",
+   "public_private": "Public",
+   "address": "121 E. Hadley St. ",
+   "charter_school": "No",
+   "lat": 43.0684998,
+   "lon": -87.9103246
+ },
+ {
+   "school": "Pershing Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "1330 S. 47th St. ",
+   "charter_school": "No",
+   "lat": 43.0177483,
+   "lon": -87.9718931
+ },
+ {
+   "school": "Bruce Guadalupe Middle School",
+   "school_type": "Middle School",
+   "public_private": "Public",
+   "address": "1028 S. 9th St. ",
+   "charter_school": "Yes",
+   "lat": 43.0209254,
+   "lon": -87.9221214
+ },
+ {
+   "school": "Holy Wisdom Academy East",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "3329 S. 10th St. ",
+   "charter_school": "No",
+   "lat": 42.984007,
+   "lon": -87.9257462
+ },
+ {
+   "school": "Shining Star Christian School - West Capitol",
+   "school_type": "Elementary School",
+   "public_private": "Private",
+   "address": "4050 N. 95th St. ",
+   "charter_school": "No",
+   "lat": 43.0910717,
+   "lon": -88.0311005
+ },
+ {
+   "school": "Alcott School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "3563 S. 97th St. ",
+   "charter_school": "No",
+   "lat": 42.9791044,
+   "lon": -88.0352404
+ },
+ {
+   "school": "Rocketship Southside Community Prep",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "3003 W. Cleveland Ave.",
+   "charter_school": "Yes",
+   "lat": 42.9957609,
+   "lon": -87.9524079
+ },
+ {
+   "school": "Holy Redeemer Christian Academy",
+   "school_type": "K-12",
+   "public_private": "Private",
+   "address": "3500 W. Mother Daniels",
+   "charter_school": "No",
+   "lat": 43.106499,
+   "lon": -87.956711
+ },
+ {
+   "school": "Green Bay Avenue Public School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "3872 N. 8th St. ",
+   "charter_school": "No",
+   "lat": 43.0877386,
+   "lon": -87.920899
+ },
+ {
+   "school": "Congress Public School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "5225 W. Lincoln Creek Dr. ",
+   "charter_school": "No",
+   "lat": 43.0984498,
+   "lon": -87.978775
+ },
+ {
+   "school": "Luther Burbank Elementary School ",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "6035 W. Adler St. ",
+   "charter_school": "No",
+   "lat": 43.0272022,
+   "lon": -87.9883903
+ },
+ {
+   "school": "Maryland Avenue Montessori School",
+   "school_type": "Alternative",
+   "public_private": "Public",
+   "address": "2418 N. Maryland Ave.",
+   "charter_school": "No",
+   "lat": 43.0620592,
+   "lon": -87.8825169
+ },
+ {
+   "school": "Wauwatosa West High School",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "11400 W. Center St.",
+   "charter_school": "No",
+   "lat": 43.067431,
+   "lon": -88.055391
+ },
+ {
+   "school": "Gwen T. Jackson Early Childhood and Elementary School ",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "2121 W. Hadley St. ",
+   "charter_school": "No",
+   "lat": 43.0687528,
+   "lon": -87.9393322
+ },
+ {
+   "school": "Sherman Multicultural Arts School",
+   "school_type": "Alternative School",
+   "public_private": "Public",
+   "address": "5110 W. Locust St.",
+   "charter_school": "No",
+   "lat": 43.0725851,
+   "lon": -87.9779841
+ },
+ {
+   "school": "Longfellow Public School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Public",
+   "address": "1021 S. 21st St. ",
+   "charter_school": "No",
+   "lat": 43.0197733,
+   "lon": -87.9401585
+ },
+ {
+   "school": "Bruce Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "6453 N. 89th St. ",
+   "charter_school": "No",
+   "lat": 43.1358238,
+   "lon": -88.0238151
+ },
+ {
+   "school": "Walter Sava Learning Center",
+   "school_type": "Middle School",
+   "public_private": "Public",
+   "address": "615 W. Washington St. ",
+   "charter_school": "No",
+   "lat": 43.0198319,
+   "lon": -87.9186871
+ },
+ {
+   "school": "Shorewood High School",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "1701 E. Capitol Dr.",
+   "charter_school": "No",
+   "lat": 43.089273,
+   "lon": -87.8886021
+ },
+ {
+   "school": "Townsend Public School",
+   "school_type": "Middle School",
+   "public_private": "Public ",
+   "address": "3360 N. Sherman Blvd.",
+   "charter_school": "No",
+   "lat": 43.0804073,
+   "lon": -87.9671564
+ },
+ {
+   "school": "Whitman Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "4200 S. 54th St. ",
+   "charter_school": "No",
+   "lat": 42.9684457,
+   "lon": -87.9825538
+ },
+ {
+   "school": "St. Rafael the Archangel School-South Campus",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "2251 S. 31st St. ",
+   "charter_school": "No",
+   "lat": 43.0039794,
+   "lon": -87.9530463
+ },
+ {
+   "school": "Roosevelt Middle School of the Arts",
+   "school_type": "Middle School",
+   "public_private": "Public",
+   "address": "800 W. Walnut St.",
+   "charter_school": "No",
+   "lat": 43.0531148,
+   "lon": -87.9219357
+ },
+ {
+   "school": "Yeshiva Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Private",
+   "address": "5115 W. Keefe Ave.",
+   "charter_school": "No",
+   "lat": 43.0822623,
+   "lon": -87.977762
+ },
+ {
+   "school": "St. Matthias Parish School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "9300 Beloit Rd. ",
+   "charter_school": "No",
+   "lat": 42.985393,
+   "lon": -88.029476
+ },
+ {
+   "school": "Lloyd Barbee Montessori School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "4456 N. Teutonia Ave.",
+   "charter_school": "No",
+   "lat": 43.0980145,
+   "lon": -87.9424273
+ },
+ {
+   "school": "ALBA School ",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "1712 S. 32nd St.",
+   "charter_school": "Yes",
+   "lat": 43.0115857,
+   "lon": -87.9534209
+ },
+ {
+   "school": "Business and Economics Academy of Milwaukee",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Public",
+   "address": "3620 N. 18th St. ",
+   "charter_school": "Yes",
+   "lat": 43.0834043,
+   "lon": -87.9328261
+ },
+ {
+   "school": "Stellar Elementary",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "2431 S. 10th St. ",
+   "charter_school": "Yes",
+   "lat": 43.0005887,
+   "lon": -87.9249864
+ },
+ {
+   "school": "Ceria M Travis Academy",
+   "school_type": "High School",
+   "public_private": "Private",
+   "address": "4744 N. 39th St. ",
+   "charter_school": "No",
+   "lat": 43.1033037,
+   "lon": -87.9608705
+ },
+ {
+   "school": "Dominican High School",
+   "school_type": "High School",
+   "public_private": "Private",
+   "address": "120 E. Silver Spring Dr.",
+   "charter_school": "No",
+   "lat": 43.1186386,
+   "lon": -87.9088591
+ },
+ {
+   "school": "St. Philip's Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "3012 N. Holton St. ",
+   "charter_school": "No",
+   "lat": 43.073264,
+   "lon": -87.9051266
+ },
+ {
+   "school": "Wauwatosa East High School",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "7500 Milwaukee Ave.",
+   "charter_school": "No",
+   "lat": 43.0535951,
+   "lon": -88.0060913
+ },
+ {
+   "school": "Oscar Wendell Holmes School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "2463 N. Buffum St. ",
+   "charter_school": "No",
+   "lat": 43.0631693,
+   "lon": -87.9066928
+ },
+ {
+   "school": "Whitefish Bay High School",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "1200 E. Fairmount Ave.",
+   "charter_school": "No",
+   "lat": 43.1076274,
+   "lon": -87.8965314
+ },
+ {
+   "school": "Lake Bluff Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "1600 E. Lake Bluff Blvd.",
+   "charter_school": "No",
+   "lat": 43.0959384,
+   "lon": -87.8911381
+ },
+ {
+   "school": "Andrew S Douglas Middle School",
+   "school_type": "Middle School",
+   "public_private": "Public",
+   "address": "3620 N. 18th St. ",
+   "charter_school": "No",
+   "lat": 43.0834043,
+   "lon": -87.9328261
+ },
+ {
+   "school": "Young Coggs Williams High School",
+   "school_type": "High School",
+   "public_private": "Private",
+   "address": "3500 W. Mother Daniels Way",
+   "charter_school": "No",
+   "lat": 43.106499,
+   "lon": -87.956711
+ },
+ {
+   "school": "Garland Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "3120 W. Green Ave.",
+   "charter_school": "No",
+   "lat": 42.9406068,
+   "lon": -87.9539438
+ },
+ {
+   "school": "Lincoln Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "1741 N. Wauwatosa Ave. ",
+   "charter_school": "No",
+   "lat": 43.053168,
+   "lon": -88.0080801
+ },
+ {
+   "school": "Ronald Reagan High School",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "4965 S. 20th St. ",
+   "charter_school": "No",
+   "lat": 42.9540774,
+   "lon": -87.9406536
+ },
+ {
+   "school": "Kilmer South Alternative High",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "6914 W. Appleton Ave. ",
+   "charter_school": "No",
+   "lat": 43.0831184,
+   "lon": -87.9984863
+ },
+ {
+   "school": "Washington Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "2166 N. 68th St. ",
+   "charter_school": "No",
+   "lat": 43.058368,
+   "lon": -87.9968982
+ },
+ {
+   "school": "Parkview Public School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "10825 W. Villard Ave.",
+   "charter_school": "No",
+   "lat": 43.1104962,
+   "lon": -88.048049
+ },
+ {
+   "school": "Grace Christian Academy Inc. ",
+   "school_type": "K-12",
+   "public_private": "Private",
+   "address": "8420 Beloit Rd.",
+   "charter_school": "No",
+   "lat": 42.99162,
+   "lon": -88.017881
+ },
+ {
+   "school": "Academy of Excellence High School",
+   "school_type": "K-12",
+   "public_private": "Private",
+   "address": "2552 S. 19th St.",
+   "charter_school": "No",
+   "lat": 42.9981727,
+   "lon": -87.9368096
+ },
+ {
+   "school": "IDEAL School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Public",
+   "address": "1420 W. Goldcrest Ave. ",
+   "charter_school": "Yes",
+   "lat": 42.9394242,
+   "lon": -87.9311925
+ },
+ {
+   "school": "Siloah Lutheran Church and School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "3721 N. 21st St. ",
+   "charter_school": "No",
+   "lat": 43.0849478,
+   "lon": -87.9385181
+ },
+ {
+   "school": "West Allis Central High School ",
+   "school_type": "High School ",
+   "public_private": "Public",
+   "address": "8516 W. Lincoln Ave.",
+   "charter_school": "No",
+   "lat": 43.0028171,
+   "lon": -88.0188424
+ },
+ {
+   "school": "Shorewood Intermediate School",
+   "school_type": "Middle School",
+   "public_private": "Public",
+   "address": "3830 N. Morris Blvd. ",
+   "charter_school": "No",
+   "lat": 43.0869001,
+   "lon": -87.8918455
+ },
+ {
+   "school": "Morse Middle School for the Gifted and Talented",
+   "school_type": "Middle School",
+   "public_private": "Public",
+   "address": "6700 N. 80th St. ",
+   "charter_school": "No",
+   "lat": 43.1394542,
+   "lon": -88.0098107
+ },
+ {
+   "school": "Hawthorne School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "6945 N. 41st St. ",
+   "charter_school": "No",
+   "lat": 43.143768,
+   "lon": -87.963256
+ },
+ {
+   "school": "Nathan Hale High School",
+   "school_type": "High School",
+   "public_private": "Public ",
+   "address": "11601 W. Lincoln Ave. ",
+   "charter_school": "No",
+   "lat": 43.002607,
+   "lon": -88.056901
+ },
+ {
+   "school": "Destiny High School ",
+   "school_type": "High School",
+   "public_private": "Private",
+   "address": "7210 N. 76th St. ",
+   "charter_school": "No",
+   "lat": 43.149777,
+   "lon": -88.0033222
+ },
+ {
+   "school": "South Milwaukee High School",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "801 15th Ave.",
+   "charter_school": "No",
+   "lat": 42.921441,
+   "lon": -87.87091
+ },
+ {
+   "school": "Atwater Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "2100 E. Capitol Dr. ",
+   "charter_school": "No",
+   "lat": 43.0900398,
+   "lon": -87.8837703
+ },
+ {
+   "school": "Irving Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "10230 W. Grant St. ",
+   "charter_school": "No",
+   "lat": 43.0036271,
+   "lon": -88.0400719
+ },
+ {
+   "school": "Vincent High School ",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "7501 N. Granville Rd.",
+   "charter_school": "No",
+   "lat": 43.1561827,
+   "lon": -88.0314805
+ },
+ {
+   "school": "Nicolet High School ",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "6701 N. Jean Nicolet Rd. ",
+   "charter_school": "No",
+   "lat": 43.138247,
+   "lon": -87.914291
+ },
+ {
+   "school": "Henry David Thoreau Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "7878 N. 60th St. ",
+   "charter_school": "No",
+   "lat": 43.1609706,
+   "lon": -87.9848144
+ },
+ {
+   "school": "Rawson School ",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "1410 Rawson Ave. ",
+   "charter_school": "No",
+   "lat": 42.915392,
+   "lon": -87.869184
+ },
+ {
+   "school": "Goodrich Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "8251 N. Celina St. ",
+   "charter_school": "No",
+   "lat": 43.1670124,
+   "lon": -88.0383557
+ },
+ {
+   "school": "Maple Dale Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "8377 N. Port Washington Rd.",
+   "charter_school": "No",
+   "lat": 43.168347,
+   "lon": -87.9137065
+ },
+ {
+   "school": "St. Francis High School",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "4225 S. Lake Dr. ",
+   "charter_school": "No",
+   "lat": 42.9676669,
+   "lon": -87.854279
+ },
+ {
+   "school": "Greendale High School",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "6801 Southway",
+   "charter_school": "No",
+   "lat": 42.9338104,
+   "lon": -87.997996
+ },
+ {
+   "school": "Audubon Middle School",
+   "school_type": "Middle School",
+   "public_private": "Public",
+   "address": "1122 W. Boden Ct.",
+   "charter_school": "No",
+   "lat": 42.9350302,
+   "lon": -87.9282926
+ },
+ {
+   "school": "Canterbury Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "7000 Enfield Ave.",
+   "charter_school": "No",
+   "lat": 42.939853,
+   "lon": -88.002055
+ },
+ {
+   "school": "College Park Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "5701 W. College Ave. ",
+   "charter_school": "No",
+   "lat": 42.9302311,
+   "lon": -87.9100709
+ },
+ {
+   "school": "Highland View ",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "5900 S. 51st St. ",
+   "charter_school": "No",
+   "lat": 42.93751,
+   "lon": -87.978865
+ },
+ {
+   "school": "Hales Corners Elementary School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "11320 W. Janesville Rd. ",
+   "charter_school": "No",
+   "lat": 42.9385894,
+   "lon": -88.0550575
+ },
+ {
+   "school": "Forest Park Middle School",
+   "school_type": "Middle School",
+   "public_private": "Public",
+   "address": "8225 W. Forest Hill Ave.",
+   "charter_school": "No",
+   "lat": 42.8932537,
+   "lon": -88.0174646
+ },
+ {
+   "school": "Franklin High School ",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "8222 S. 51st St. ",
+   "charter_school": "No",
+   "lat": 42.8973066,
+   "lon": -87.9776835
+ },
+ {
+   "school": "University School of Milwaukee",
+   "school_type": "K-12",
+   "public_private": "Private",
+   "address": "2100 W. Fairy Chasm Rd.",
+   "charter_school": "No",
+   "lat": 43.1891665,
+   "lon": -87.9333026
+ },
+ {
+   "school": "The Prairie School",
+   "school_type": "K-12",
+   "public_private": "Private",
+   "address": "4050 Lighthouse Dr. ",
+   "charter_school": "No",
+   "lat": 43.0412106,
+   "lon": -87.9351754
+ },
+ {
+   "school": "Institute of Technology and Academics",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private ",
+   "address": "8940 N. 85th St. ",
+   "charter_school": "No",
+   "lat": 43.1803036,
+   "lon": -88.0147883
+ },
+ {
+   "school": "St. Mary Parish School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private ",
+   "address": "9553 W. Edgerton Ave.",
+   "charter_school": "No",
+   "lat": 42.9488848,
+   "lon": -88.0327669
+ },
+ {
+   "school": "All Saints Catholic East School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private ",
+   "address": "2038 N. Bartlett Ave.",
+   "charter_school": "No",
+   "lat": 43.058341,
+   "lon": -87.8896406
+ },
+ {
+   "school": "Atonement Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private ",
+   "address": "4224 W. Ruby Rd. ",
+   "charter_school": "No",
+   "lat": 43.099325,
+   "lon": -87.9656981
+ },
+ {
+   "school": "Badger State Baptist School",
+   "school_type": "K-12",
+   "public_private": "Private ",
+   "address": "8519 S. 13th St.",
+   "charter_school": "No",
+   "lat": 42.9303567,
+   "lon": -87.9299281
+ },
+ {
+   "school": "Blessed Savior Catholic School-East Campus",
+   "school_type": "k-12",
+   "public_private": "Private ",
+   "address": "5140 N. 55th St.",
+   "charter_school": "No",
+   "lat": 43.1110465,
+   "lon": -87.9806538
+ },
+ {
+   "school": "Catholic East Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Private ",
+   "address": "2461 N. Murray Ave.",
+   "charter_school": "No",
+   "lat": 43.0629375,
+   "lon": -87.8858337
+ },
+ {
+   "school": "Christ King School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private ",
+   "address": "2646 N. Swan Blvd.",
+   "charter_school": "No",
+   "lat": 43.0666732,
+   "lon": -88.0274076
+ },
+ {
+   "school": "Cross Trainers Academy",
+   "school_type": "K-12",
+   "public_private": "Private ",
+   "address": "830 N. 19th St. ",
+   "charter_school": "No",
+   "lat": 43.0407169,
+   "lon": -87.9365209
+ },
+ {
+   "school": "Early View Academy of Excellence",
+   "school_type": "K-12 ",
+   "public_private": "Private ",
+   "address": "7132 W. Good Hope Rd.",
+   "charter_school": "No",
+   "lat": 43.1487381,
+   "lon": -87.9994113
+ },
+ {
+   "school": "Granville Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private ",
+   "address": "8242 N. Granville Rd. ",
+   "charter_school": "No",
+   "lat": 43.1659427,
+   "lon": -88.033712
+ },
+ {
+   "school": "Greater Holy Temple Christian Academy",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private ",
+   "address": "5575 N. 76th St.",
+   "charter_school": "No",
+   "lat": 43.118395,
+   "lon": -88.006114
+ },
+ {
+   "school": "Hickmans Academy Prep School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private ",
+   "address": "6401 W. Capitol Drive",
+   "charter_school": "No",
+   "lat": 43.0901152,
+   "lon": -87.9922437
+ },
+ {
+   "school": "Hope Christian School - Fortis",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private ",
+   "address": "3601 N. Port Washington Rd.",
+   "charter_school": "No",
+   "lat": 43.0925512,
+   "lon": -87.91714
+ },
+ {
+   "school": "Hope Christian School - Prima",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private ",
+   "address": "2345 N. 25th St. ",
+   "charter_school": "No",
+   "lat": 43.0614051,
+   "lon": -87.94513
+ },
+ {
+   "school": "Hope Christian School - Semper",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "3040 W. Capitol Dr.",
+   "charter_school": "No",
+   "lat": 43.0899116,
+   "lon": -87.9512056
+ },
+ {
+   "school": "Hope Christian School: Caritas",
+   "school_type": "Elementary School",
+   "public_private": "Private",
+   "address": "8920 W. Brown Deer Rd.",
+   "charter_school": "No",
+   "lat": 43.1786458,
+   "lon": -88.0225466
+ },
+ {
+   "school": "Hope Christian School: Fidelis ",
+   "school_type": "Elementary School",
+   "public_private": "Private",
+   "address": "4200 W. Douglas Ave.",
+   "charter_school": "No",
+   "lat": 43.130633,
+   "lon": -87.964172
+ },
+ {
+   "school": "Indian Community School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "10405 W. Saint Martins Rd.",
+   "charter_school": "No",
+   "lat": 42.8917715,
+   "lon": -88.0477823
+ },
+ {
+   "school": "Loving Shepherd Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "3909 W. Clinton Ave.",
+   "charter_school": "No",
+   "lat": 43.1508328,
+   "lon": -87.960457
+ },
+ {
+   "school": "Martin Luther High School",
+   "school_type": "High School",
+   "public_private": "Private",
+   "address": "5201 S. 76th St. ",
+   "charter_school": "No",
+   "lat": 42.9490428,
+   "lon": -88.010447
+ },
+ {
+   "school": "Marva Collins Prep School of Wi",
+   "school_type": "Elementary School",
+   "public_private": "Private",
+   "address": "2449 N. 36th St.",
+   "charter_school": "No",
+   "lat": 43.0633471,
+   "lon": -87.9589963
+ },
+ {
+   "school": "Milwaukee Lutheran High School",
+   "school_type": "High School",
+   "public_private": "Private",
+   "address": "9700 W. Grantosa Dr.",
+   "charter_school": "No",
+   "lat": 43.0954113,
+   "lon": -88.0337051
+ },
+ {
+   "school": "Milwaukee Montessori School",
+   "school_type": "Montessori",
+   "public_private": "Private",
+   "address": "345 N. 95th St. ",
+   "charter_school": "No",
+   "lat": 43.0333957,
+   "lon": -88.0312459
+ },
+ {
+   "school": "Mother of Good Counsel ",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "3001 N. 68th St.",
+   "charter_school": "No",
+   "lat": 43.073657,
+   "lon": -87.997437
+ },
+ {
+   "school": "Mt. Calvary Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "2862 N. 53rd St.",
+   "charter_school": "No",
+   "lat": 43.0709377,
+   "lon": -87.9796789
+ },
+ {
+   "school": "Mt. Lebanon Evangelical Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "6100 W. Hampton Ave.",
+   "charter_school": "No",
+   "lat": 43.1052679,
+   "lon": -87.9882448
+ },
+ {
+   "school": "Nativity Jesuit Academy",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "1515 S. 29th St.",
+   "charter_school": "No",
+   "lat": 43.0156306,
+   "lon": -87.9504086
+ },
+ {
+   "school": "Prince of Peace School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "1114 S. 25th St.",
+   "charter_school": "No",
+   "lat": 43.0198171,
+   "lon": -87.9446155
+ },
+ {
+   "school": "Risen Savior Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "9550 W. Brown Deer Rd.",
+   "charter_school": "No",
+   "lat": 43.1774745,
+   "lon": -88.0293285
+ },
+ {
+   "school": "St. Alphonsus School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "6000 W. Loomis Rd.",
+   "charter_school": "No",
+   "lat": 42.9361877,
+   "lon": -87.9911536
+ },
+ {
+   "school": "St. Anthomy High School",
+   "school_type": "High School",
+   "public_private": "Private",
+   "address": "4807 S. 2nd St.",
+   "charter_school": "No",
+   "lat": 42.9572599,
+   "lon": -87.9136665
+ },
+ {
+   "school": "St. Augustine Preparatory Academy",
+   "school_type": "K-12",
+   "public_private": "Private",
+   "address": "2607 S. 5th St. ",
+   "charter_school": "No",
+   "lat": 42.9965959,
+   "lon": -87.9170499
+ },
+ {
+   "school": "St. Charles Borromeo School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "3100 W. Parnell Ave.",
+   "charter_school": "No",
+   "lat": 42.941846,
+   "lon": -87.95445
+ },
+ {
+   "school": "St. Jacobi Evangelical Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "8605 W. Forest Home Ave.",
+   "charter_school": "No",
+   "lat": 43.0007263,
+   "lon": -87.9481896
+ },
+ {
+   "school": "St. John's Evangelical Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "1278 Dewey Ave.",
+   "charter_school": "No",
+   "lat": 43.0483097,
+   "lon": -88.0093626
+ },
+ {
+   "school": "St. Johns Lutheran School ",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "4001 S. 68th St.",
+   "charter_school": "No",
+   "lat": 42.9721328,
+   "lon": -87.9981351
+ },
+ {
+   "school": "St. Johns Lutheran School ",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "7877 N. Port Washington Rd. ",
+   "charter_school": "No",
+   "lat": 43.0925512,
+   "lon": -87.91714
+ },
+ {
+   "school": "St. Jude the Apostle School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "800 Glenview Ave.",
+   "charter_school": "No",
+   "lat": 43.0400378,
+   "lon": -88.0136939
+ },
+ {
+   "school": "St. Margaret Mary School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "3950 N. 92nd St. ",
+   "charter_school": "No",
+   "lat": 43.0890187,
+   "lon": -88.0275945
+ },
+ {
+   "school": "St. Monica School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "5635 N. Santa Monica Blvd. ",
+   "charter_school": "No",
+   "lat": 43.1192083,
+   "lon": -87.9068445
+ },
+ {
+   "school": "St. Pauls Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "3766 E. Cudahy Ave.",
+   "charter_school": "No",
+   "lat": 42.9610697,
+   "lon": -87.8559998
+ },
+ {
+   "school": "St. Robert School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "2200 E. Capitol Dr.",
+   "charter_school": "No",
+   "lat": 43.089284,
+   "lon": -87.882349
+ },
+ {
+   "school": "St. Roman Parish School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "1810 W. Bolivar Ave.",
+   "charter_school": "No",
+   "lat": 42.9673092,
+   "lon": -87.9374989
+ },
+ {
+   "school": "St. Sebastian School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "1747 N. 54th St.",
+   "charter_school": "No",
+   "lat": 43.0535396,
+   "lon": -87.9810623
+ },
+ {
+   "school": "Salem Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "6844 N. 107th St.",
+   "charter_school": "No",
+   "lat": 43.1420255,
+   "lon": -88.045053
+ },
+ {
+   "school": "Urban Day School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "1441 N. 24th St. ",
+   "charter_school": "No",
+   "lat": 43.0492242,
+   "lon": -87.9429131
+ },
+ {
+   "school": "Wisconsin Lutheran High School",
+   "school_type": "High School",
+   "public_private": "Private",
+   "address": "330 N. Glenview Ave.",
+   "charter_school": "No",
+   "lat": 43.0331896,
+   "lon": -88.0160292
+ },
+ {
+   "school": "Alston's Preparatory Academy",
+   "school_type": "Elementary School",
+   "public_private": "Private",
+   "address": "921 N. 49th St. ",
+   "charter_school": "No",
+   "lat": 43.0406883,
+   "lon": -87.97543
+ },
+ {
+   "school": "Believers in Christ Christian Academy",
+   "school_type": "K-12",
+   "public_private": "Private",
+   "address": "4065 N. 25th St. ",
+   "charter_school": "No",
+   "lat": 43.0908005,
+   "lon": -87.9448042
+ },
+ {
+   "school": "Blessed Sacrament School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "3126 S. 41st St.",
+   "charter_school": "No",
+   "lat": 42.9878132,
+   "lon": -87.9653158
+ },
+ {
+   "school": "Blessed Savior Catholic School-South Campus",
+   "school_type": "Elementary School",
+   "public_private": "Private",
+   "address": "4059 N. 64th St.",
+   "charter_school": "No",
+   "lat": 43.0914567,
+   "lon": -87.9933031
+ },
+ {
+   "school": "Blessed Savior School - North Campus",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "5501 N. 68th St. ",
+   "charter_school": "No",
+   "lat": 43.1180844,
+   "lon": -87.9967379
+ },
+ {
+   "school": "Blessed Savior School - West Campus",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "8545 W. Villard Ave.",
+   "charter_school": "No",
+   "lat": 43.1117631,
+   "lon": -88.0195917
+ },
+ {
+   "school": "Bridging the Gap Learning Center",
+   "school_type": "Elementary School",
+   "public_private": "Private",
+   "address": "1017 N. 17th St.",
+   "charter_school": "No",
+   "lat": 43.0434899,
+   "lon": -87.9341154
+ },
+ {
+   "school": "Calvary's Christian Academy",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "3131 S. 100th St.",
+   "charter_school": "No",
+   "lat": 42.9874331,
+   "lon": -88.0375929
+ },
+ {
+   "school": "Christ-St. Peter Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "2229 W. Greenfield Ave.",
+   "charter_school": "No",
+   "lat": 43.0167535,
+   "lon": -87.9416549
+ },
+ {
+   "school": "Christian Faith Academy",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "3965 N. 15th St.",
+   "charter_school": "No",
+   "lat": 43.0888,
+   "lon": -87.9296935
+ },
+ {
+   "school": "Divine Destiny School ",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "1230 S. 61st St.",
+   "charter_school": "No",
+   "lat": 43.0190065,
+   "lon": -87.9885851
+ },
+ {
+   "school": "Divine Mercy School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "695 College Ave.",
+   "charter_school": "No",
+   "lat": 43.0381312,
+   "lon": -87.9136238
+ },
+ {
+   "school": "El Puente High School",
+   "school_type": "High School",
+   "public_private": "Private",
+   "address": "1127 S. 35th St.",
+   "charter_school": "No",
+   "lat": 43.0197151,
+   "lon": -87.9578208
+ },
+ {
+   "school": "Fairview Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "137 N. 66th St. ",
+   "charter_school": "No",
+   "lat": 43.0319511,
+   "lon": -87.994599
+ },
+ {
+   "school": "Good Shepherds Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "1337 S. 100th St.",
+   "charter_school": "No",
+   "lat": 43.0177875,
+   "lon": -88.0372815
+ },
+ {
+   "school": "Grace Christian School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "9900 W. Capitol Dr. ",
+   "charter_school": "No",
+   "lat": 43.0899868,
+   "lon": -88.0072205
+ },
+ {
+   "school": "Grace Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "8537 S. Pennsylvania Ave.",
+   "charter_school": "No",
+   "lat": 42.9862042,
+   "lon": -87.8794393
+ },
+ {
+   "school": "Guidance Academy",
+   "school_type": "Elementary School",
+   "public_private": "Private",
+   "address": "1800 16th Ave",
+   "charter_school": "No",
+   "lat": 42.913472,
+   "lon": -87.873218
+ },
+ {
+   "school": "The Hillel Academy",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "6401 N. Santa Monica Blvd.",
+   "charter_school": "No",
+   "lat": 43.1332461,
+   "lon": -87.907787
+ },
+ {
+   "school": "Holy Family Parish School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "4849 N. Wildwood Ave.",
+   "charter_school": "No",
+   "lat": 43.104803,
+   "lon": -87.8960788
+ },
+ {
+   "school": "Institute for Career Empowerment",
+   "school_type": "Middle/High School",
+   "public_private": "Private",
+   "address": "700 W. Michigan St. ",
+   "charter_school": "No",
+   "lat": 43.0377779,
+   "lon": -87.9207995
+ },
+ {
+   "school": "Institute of Kings and Priests Inc. ",
+   "school_type": "Alternative School",
+   "public_private": "Private",
+   "address": "12201 W. Burleigh St. ",
+   "charter_school": "No",
+   "lat": 43.074401,
+   "lon": -88.065359
+ },
+ {
+   "school": "Journeys Lutheran School",
+   "school_type": "K-12",
+   "public_private": "Private",
+   "address": "5425 S. 111th St. ",
+   "charter_school": "No",
+   "lat": 42.9461724,
+   "lon": -88.0521511
+ },
+ {
+   "school": "Jubilee Christian School",
+   "school_type": "K-12",
+   "public_private": "Private",
+   "address": "3639 W. Ryan Rd. ",
+   "charter_school": "No",
+   "lat": 42.8682492,
+   "lon": -87.8658666
+ },
+ {
+   "school": "King's Academy Christian School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "7798 N. 60th St.",
+   "charter_school": "No",
+   "lat": 43.159831,
+   "lon": -87.9835003
+ },
+ {
+   "school": "Lamb of God Evangelical Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "2217 S. 99th St.",
+   "charter_school": "No",
+   "lat": 43.0041385,
+   "lon": -88.035899
+ },
+ {
+   "school": "Mary Queen of Saints Catholic Academ - Greenfield ",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "1435 S. 92nd St. ",
+   "charter_school": "No",
+   "lat": 43.015611,
+   "lon": -88.0271994
+ },
+ {
+   "school": "Messiah Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "12145 W. Edgerton Ave.",
+   "charter_school": "No",
+   "lat": 42.9517399,
+   "lon": -88.0652741
+ },
+ {
+   "school": "Milwaukee Academy",
+   "school_type": "Alternative School",
+   "public_private": "Private",
+   "address": "W. Watertown Plank Rd. ",
+   "charter_school": "No",
+   "lat": 43.0895328,
+   "lon": -88.0268665
+ },
+ {
+   "school": "Milwaukee Collegiate Academy",
+   "school_type": "High School",
+   "public_private": "Private",
+   "address": "4030 N. 29th St.",
+   "charter_school": "No",
+   "lat": 43.090248,
+   "lon": -87.9489481
+ },
+ {
+   "school": "Mt. Lebanon School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "8444 W. Melvina St. ",
+   "charter_school": "No",
+   "lat": 43.088929,
+   "lon": -88.0182078
+ },
+ {
+   "school": "Mt. Olive Christian Day School",
+   "school_type": "Elementary/Middle School ",
+   "public_private": "Private",
+   "address": "5301 W. Washington Rd. ",
+   "charter_school": "No",
+   "lat": 43.052858,
+   "lon": -87.980135
+ },
+ {
+   "school": "Mustard Seed International School",
+   "school_type": "Elementary School",
+   "public_private": "Private",
+   "address": "8980 N. 85th St. ",
+   "charter_school": "No",
+   "lat": 43.1814174,
+   "lon": -88.0155436
+ },
+ {
+   "school": "New Testament Christian Academy",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "10201 W. Bradley Rd. ",
+   "charter_school": "No",
+   "lat": 43.1619675,
+   "lon": -88.0373753
+ },
+ {
+   "school": "Noah's Ark Preparatory School",
+   "school_type": "Elementary School",
+   "public_private": "Private",
+   "address": "P.O. Box 240485",
+   "charter_school": "No",
+   "lat": 43.07482,
+   "lon": -87.905136
+ },
+ {
+   "school": "North Shore Montessori School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "7140 N. 41st St. ",
+   "charter_school": "No",
+   "lat": 43.1474467,
+   "lon": -87.9629238
+ },
+ {
+   "school": "Northwest Catholic - West Campus ",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "8202 W. Denver Ave.",
+   "charter_school": "No",
+   "lat": 43.1431816,
+   "lon": -88.0134941
+ },
+ {
+   "school": "Notre Dame Middle School",
+   "school_type": "Middle School",
+   "public_private": "Private ",
+   "address": "1420 W. Scott St. ",
+   "charter_school": "No",
+   "lat": 43.0194227,
+   "lon": -87.929709
+ },
+ {
+   "school": "Oklahoma Avenue Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "5335 W. Oklahoma Ave.",
+   "charter_school": "No",
+   "lat": 42.988339,
+   "lon": -87.9808241
+ },
+ {
+   "school": "Our Father's Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "6023 S. 27th St. ",
+   "charter_school": "No",
+   "lat": 42.9484554,
+   "lon": -87.9488241
+ },
+ {
+   "school": "Our Lady Queen of Peace School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "2733 W. Euclid Ave.",
+   "charter_school": "No",
+   "lat": 42.9865522,
+   "lon": -87.9486961
+ },
+ {
+   "school": "Our Redeemer Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "10025 W. North Ave. ",
+   "charter_school": "No",
+   "lat": 43.0604101,
+   "lon": -87.9282544
+ },
+ {
+   "school": "Parklawn Christian Leadership Academy ",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "3725 N. Sherman Blvd. ",
+   "charter_school": "No",
+   "lat": 43.0846613,
+   "lon": -87.9673057
+ },
+ {
+   "school": "Parkside Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Private ",
+   "address": "2552 S. 19th St.",
+   "charter_school": "No",
+   "lat": 42.9981727,
+   "lon": -87.9368096
+ },
+ {
+   "school": "Pilgrim Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "6717 W. Center St. ",
+   "charter_school": "No",
+   "lat": 43.0678352,
+   "lon": -87.9968945
+ },
+ {
+   "school": "Play and Learn Academy",
+   "school_type": "Elementary School",
+   "public_private": "Private",
+   "address": "7824 W. Waterford Ave. ",
+   "charter_school": "No",
+   "lat": 42.9704147,
+   "lon": -88.0108253
+ },
+ {
+   "school": "Redemption Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "5641 N. 68th St. ",
+   "charter_school": "No",
+   "lat": 43.1202678,
+   "lon": -87.9961429
+ },
+ {
+   "school": "The Richardson School",
+   "school_type": "Alternative School",
+   "public_private": "Private ",
+   "address": "6753 W. Rogers St. ",
+   "charter_school": "No",
+   "lat": 43.0081274,
+   "lon": -87.9973847
+ },
+ {
+   "school": "St. Catherine Catholic School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "2647 N. 51st St. ",
+   "charter_school": "No",
+   "lat": 43.0671148,
+   "lon": -87.9780309
+ },
+ {
+   "school": "St. Charles Inc. ",
+   "school_type": "Alternative School",
+   "public_private": "Private ",
+   "address": "151 S. 84th St. ",
+   "charter_school": "No",
+   "lat": 43.0303923,
+   "lon": -88.0184815
+ },
+ {
+   "school": "St. Eugene School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "7600 N. Port Washington Rd. ",
+   "charter_school": "No",
+   "lat": 43.0916406,
+   "lon": -87.9171502
+ },
+ {
+   "school": "St. Gregory the Great Parish School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "3132 S. 63rd St.",
+   "charter_school": "No",
+   "lat": 42.9880396,
+   "lon": -87.9898945
+ },
+ {
+   "school": "St. James Evangelical Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "2028 N. 60th St. ",
+   "charter_school": "No",
+   "lat": 43.0566132,
+   "lon": -87.9869855
+ },
+ {
+   "school": "St. Joan Antida High School",
+   "school_type": "High School",
+   "public_private": "Private",
+   "address": "1341 N. Cass St. ",
+   "charter_school": "No",
+   "lat": 43.0477833,
+   "lon": -87.9027408
+ },
+ {
+   "school": "St. John Kanty Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Private ",
+   "address": "2840 S. 10th St. ",
+   "charter_school": "No",
+   "lat": 42.9922372,
+   "lon": -87.9248067
+ },
+ {
+   "school": "St. John the Evangelist School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "8500 W. Coldspring Rd.",
+   "charter_school": "No",
+   "lat": 42.9665665,
+   "lon": -88.0194016
+ },
+ {
+   "school": "St. Joseph Academy",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "1600 W. Oklahoma Ave.",
+   "charter_school": "No",
+   "lat": 42.9890515,
+   "lon": -87.9343833
+ },
+ {
+   "school": "St. Joseph Grade School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "2750 N. 122nd St. ",
+   "charter_school": "No",
+   "lat": 43.0683109,
+   "lon": -88.0654415
+ },
+ {
+   "school": "St. Lucas Evangelical Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "648 E. Dover St. ",
+   "charter_school": "No",
+   "lat": 42.9976714,
+   "lon": -87.9010453
+ },
+ {
+   "school": "St. Martin of Tours",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "7933 S. 116th St. ",
+   "charter_school": "No",
+   "lat": 42.9004346,
+   "lon": -88.059081
+ },
+ {
+   "school": "St. Matthew School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "9329 S. Chicago Rd.",
+   "charter_school": "No",
+   "lat": 42.8745213,
+   "lon": -87.8606243
+ },
+ {
+   "school": "St. Paul Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private ",
+   "address": "6881 S. 51st St. ",
+   "charter_school": "No",
+   "lat": 42.9195825,
+   "lon": -87.9795185
+ },
+ {
+   "school": "St. Pauls Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "7821 W. Lincoln Ave.",
+   "charter_school": "No",
+   "lat": 43.0024723,
+   "lon": -88.0106451
+ },
+ {
+   "school": "St. Peter-Immanuel Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "7801 W. Acacia St. ",
+   "charter_school": "No",
+   "lat": 43.1371322,
+   "lon": -88.0073745
+ },
+ {
+   "school": "St. Philips Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "3012 N. Holton St. ",
+   "charter_school": "No",
+   "lat": 43.073264,
+   "lon": -87.9051266
+ },
+ {
+   "school": "St. Pius X Grade School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "2520 N. Wauwatosa Ave. ",
+   "charter_school": "No",
+   "lat": 43.0649297,
+   "lon": -88.007336
+ },
+ {
+   "school": "St. Rose Youth and Family Center School",
+   "school_type": "Alternative School",
+   "public_private": "Private",
+   "address": "3801 N. 88th St. ",
+   "charter_school": "No",
+   "lat": 43.0863052,
+   "lon": -88.0227417
+ },
+ {
+   "school": "St. Sava Orthodox School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private ",
+   "address": "3201 S. 51st St. ",
+   "charter_school": "No",
+   "lat": 42.9939401,
+   "lon": -87.9778099
+ },
+ {
+   "school": "Sainta",
+   "school_type": "Alternative School",
+   "public_private": "Private",
+   "address": "8901 W. Capitol Dr. ",
+   "charter_school": "No",
+   "lat": 43.0886157,
+   "lon": -88.0244419
+ },
+ {
+   "school": "Sharon Junior Academy",
+   "school_type": "Elementary School",
+   "public_private": "Private",
+   "address": "1396 W. Meinecke Ave.",
+   "charter_school": "No",
+   "lat": 43.0626644,
+   "lon": -87.9298468
+ },
+ {
+   "school": "Shining Star Christian School - Fairview",
+   "school_type": "Elementary School",
+   "public_private": "Private",
+   "address": "137 N. 66th St. ",
+   "charter_school": "No",
+   "lat": 43.0319511,
+   "lon": -87.994599
+ },
+ {
+   "school": "Souls Harbor Baptist School",
+   "school_type": "K-12",
+   "public_private": "Private",
+   "address": "1235 N. 12th St. ",
+   "charter_school": "No",
+   "lat": 43.0462708,
+   "lon": -87.9272899
+ },
+ {
+   "school": "Texas Bufkin Christian Academy",
+   "school_type": "K-12",
+   "public_private": "Private",
+   "address": "827 N. 34th St. ",
+   "charter_school": "No",
+   "lat": 43.0407245,
+   "lon": -87.9565405
+ },
+ {
+   "school": "Torah Academy of Milwaukee ",
+   "school_type": "High School",
+   "public_private": "Private",
+   "address": "6800 N. Green Bay Ave.",
+   "charter_school": "No",
+   "lat": 43.0905743,
+   "lon": -87.9236193
+ },
+ {
+   "school": "Victory Christian Academy ",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private ",
+   "address": "2552 S. 19th St. ",
+   "charter_school": "No",
+   "lat": 42.9981727,
+   "lon": -87.9368096
+ },
+ {
+   "school": "Washington Dubois Christian Leadership Academy",
+   "school_type": "Elementary School",
+   "public_private": "Private",
+   "address": "5226 W. Hampton Ave. ",
+   "charter_school": "No",
+   "lat": 43.1050842,
+   "lon": -88.0165426
+ },
+ {
+   "school": "Wauwatosa Catholic School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "1500 N. Wauwatosa Ave.",
+   "charter_school": "No",
+   "lat": 43.050981,
+   "lon": -88.0073
+ },
+ {
+   "school": "Wells Street Academy",
+   "school_type": "Alternative School",
+   "public_private": "Private",
+   "address": "2020 W. Wells St. ",
+   "charter_school": "No",
+   "lat": 43.0405777,
+   "lon": -87.9385862
+ },
+ {
+   "school": "The Wisconsin Center for Gifted Learners ",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "2315 W. Good Hope Rd. ",
+   "charter_school": "No",
+   "lat": 43.1481737,
+   "lon": -87.9407867
+ },
+ {
+   "school": "Word of Life Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "3545 S. 23rd St.",
+   "charter_school": "No",
+   "lat": 42.9799787,
+   "lon": -87.9438916
+ },
+ {
+   "school": "Zion Evangelical Lutheran School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Private",
+   "address": "3600 S. Chicago Ave.",
+   "charter_school": "No",
+   "lat": 42.895897,
+   "lon": -87.864577
+ },
+ {
+   "school": "Mary McLeod Bethune Academy",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Public",
+   "address": "1535 N. 35th St. ",
+   "charter_school": "No",
+   "lat": 43.050831,
+   "lon": -87.9586142
+ },
+ {
+   "school": "Dr. Benjamin Carson Academy of Science",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Public",
+   "address": "4920 W. Capitol Dr.",
+   "charter_school": "No",
+   "lat": 43.0905951,
+   "lon": -87.9752812
+ },
+ {
+   "school": "George Washington Carver Academy of Mathematics and Science",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Public",
+   "address": "1900 N. 1st St. ",
+   "charter_school": "No",
+   "lat": 43.0557914,
+   "lon": -87.9104795
+ },
+ {
+   "school": "James Fenimore Cooper Elementary School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Public",
+   "address": "5143 S. 21st St. ",
+   "charter_school": "No",
+   "lat": 42.9509357,
+   "lon": -87.9408885
+ },
+ {
+   "school": "Central City Cyber School",
+   "school_type": "Alternative School",
+   "public_private": "Public",
+   "address": "4301 N. 44th St. ",
+   "charter_school": "Yes",
+   "lat": 43.095506,
+   "lon": -87.9689569
+ },
+ {
+   "school": "Darrell Lynn Hines Academy",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Public",
+   "address": "1712 S. 32nd St. ",
+   "charter_school": "Yes",
+   "lat": 43.0115857,
+   "lon": -87.9534209
+ },
+ {
+   "school": "United Community Center Acosta Middle School",
+   "school_type": "Middle School ",
+   "public_private": "Public",
+   "address": "615 W. Washington St. ",
+   "charter_school": "Yes",
+   "lat": 43.0198319,
+   "lon": -87.9186871
+ },
+ {
+   "school": "Highland Community School",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Public",
+   "address": "1706 W. Highland Ave.",
+   "charter_school": "Yes",
+   "lat": 43.0453633,
+   "lon": -87.9347375
+ },
+ {
+   "school": "Capitol West Academy",
+   "school_type": "Elementary/Middle School",
+   "public_private": "Public",
+   "address": "3939 N. 88th St. ",
+   "charter_school": "Yes",
+   "lat": 43.0890013,
+   "lon": -88.0227621
+ },
+ {
+   "school": "Pathways High School",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "3022 W. Wisconsin Ave. ",
+   "charter_school": "Yes",
+   "lat": 43.0393753,
+   "lon": -87.9523425
+ },
+ {
+   "school": "NOVA Tech",
+   "school_type": "High School",
+   "public_private": "Public",
+   "address": "225 W. Capitol Dr. ",
+   "charter_school": "Yes",
+   "lat": 43.0892026,
+   "lon": -87.9125231
+ },
+ {
+   "school": "Daniel Webster Secondary School",
+   "school_type": "Middle School",
+   "public_private": "Public",
+   "address": "6850 N. 53rd St. ",
+   "charter_school": "Yes",
+   "lat": 43.1419171,
+   "lon": -87.9779667
+ },
+ {
+   "school": "Seeds of Health Elementary School",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "2433 S. 15th St. ",
+   "charter_school": "Yes",
+   "lat": 43.0002421,
+   "lon": -87.9315656
+ },
+ {
+   "school": "Penfield Montessori Academy",
+   "school_type": "Elementary School",
+   "public_private": "Public",
+   "address": "1441 N. 24th St. ",
+   "charter_school": "Yes",
+   "lat": 43.0492242,
+   "lon": -87.9429131
+ }
+]
